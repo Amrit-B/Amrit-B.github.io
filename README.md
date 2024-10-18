@@ -36,4 +36,4 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-bhaganagare/)
-[![Email](https://img.shields.io/badge/Email-abgh8@mst.edu-red)](mailto:08amrit@gmail.com)
+[![Email](https://img.shields.io/badge/Email-08amrit@gmail.com-red)](mailto:08amrit@gmail.com)
