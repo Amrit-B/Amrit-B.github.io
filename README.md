@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 
 ### Featured Projects
 
-- **[Task Tracker](https://github.com/amritbhaganagare/task-tracker)** - A responsive task management web app using HTML, CSS, and JavaScript.
+- **[Task Tracker](https://amrit-b.github.io/Task-Tracker.github.io/)** - A responsive task management web app using HTML, CSS, and JavaScript.
 
 ### Connect with Me
 
