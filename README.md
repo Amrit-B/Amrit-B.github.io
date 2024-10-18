@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 
 🔭 **I’m currently working on:** 
 - A **Task Tracker** web application using HTML, CSS, and JavaScript
-- Exploring decentralized applications with **Decentraland (MANA)**
 
 🚀 **Skills & Tools:**
 - **Languages:** Python, C++, Java, SQL
@@ -30,8 +29,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 ### Featured Projects
 
 - **[Task Tracker](https://github.com/amritbhaganagare/task-tracker)** - A responsive task management web app using HTML, CSS, and JavaScript.
-
-- **Decentraland (MANA) Analysis** - Exploring the investment opportunities in decentralized virtual worlds.
 
 ### Connect with Me
 
