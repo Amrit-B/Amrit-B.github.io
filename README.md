@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 👯 **Looking to collaborate on:** Open-source projects, blockchain, and web development projects
 
 📫 **How to reach me:** 
-- Email: [abgh8@mst.edu](mailto:08amrit@gmail.com)
+- Email: [08amrit@gmail](mailto:08amrit@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/amrit-bhaganagare/) - Let's connect!
 
 💬 **Fun fact:** I enjoy playing chess and am always up for a challenge!
