@@ -11,11 +11,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 - Exploring decentralized applications with **Decentraland (MANA)**
 
 🚀 **Skills & Tools:**
-- **Languages:** Python, C++, Java, JavaScript, SQL
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Database Management:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, C++, Java, SQL
+- **Web Development:** HTML, CSS, JavaScript,TypeScript, React
+- **Database Management:** MySQL, MongoDB
 - **Cloud Platforms:** AWS (Certified Cloud Practitioner)
-- **Tools:** Git, Docker, VS Code, Jupyter Notebooks
+- **Tools:** Git, VS Code, Jupyter Notebooks, MS Word, MS Excel, MS Power Point
 
 👯 **Looking to collaborate on:** Open-source projects, blockchain, and web development projects
 
