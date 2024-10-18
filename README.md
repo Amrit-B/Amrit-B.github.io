@@ -33,10 +33,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science enthusiast, curr
 
 - **Decentraland (MANA) Analysis** - Exploring the investment opportunities in decentralized virtual worlds.
 
-📊 **GitHub Stats**
-
-![Amrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritbhaganagare&show_icons=true&theme=radical)
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-bhaganagare/)
